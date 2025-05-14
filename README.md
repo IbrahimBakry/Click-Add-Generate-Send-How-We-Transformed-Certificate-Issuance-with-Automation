@@ -1,4 +1,4 @@
-# **From Manual to Automated: Revolutionizing Certificate Issuance** 🚀📜  
+# **From Manual to Automated Certificate Issuance** 🚀📜  
 
 ### **How We Scaled from 100 to 1,500+ Certificates per Month with Semi-Automation**  
 
